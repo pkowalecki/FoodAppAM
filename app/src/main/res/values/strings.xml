@@ -19,5 +19,7 @@
     <string name="create_order_title">Create Order</string>
     <string name="action_share">Share</string>
     <string name ="order_food">Order</string>
+    <string name = "favorites">Twoje ulubione danie</string>
+    <string name="favorite">Ulubione</string>
 
 </resources>
